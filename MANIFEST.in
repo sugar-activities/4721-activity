@@ -1,0 +1,9 @@
+include *.*
+recursive-include activity *.*
+recursive-include audios *.*
+recursive-include control *.*
+recursive-include imagenes *.*
+recursive-include modelo *.*
+recursive-include olpcgames *.*
+recursive-include src *.*
+recursive-include vista *.*
